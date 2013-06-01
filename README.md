@@ -1,4 +1,4 @@
 db-sandbox
 ==========
 
-DB Sandbox for programmer when do side effect testing in production environment.
+DB's Sandbox for side-effect testing in production environment.
